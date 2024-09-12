@@ -1,8 +1,16 @@
 {
-    "name": "madcobiz/madco-auth-php",
-    "description": "madco auth web3 system",
+    "name": "madcobiz/madco-auth-laravel",
+    "description": "Madco Auth Web3 System",
+    "homepage": "https://mobinait.net",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "auth",
+        "social",
+        "web3",
+        "madco",
+        "madbiz"
+    ],
     "autoload": {
         "psr-4": {
             "Madco\\AuthLogin\\": "src/"
@@ -10,10 +18,15 @@
     },
     "authors": [
         {
-            "name": "wersy"
+            "name": "wersy",
+            "email": "yousef.wersy@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "support": {
+        "issues": "https://github.com/MADCOBIZ/Madco-auth-laravel/issues",
+        "source": "https://github.com/MADCOBIZ/Madco-auth-laravel"
+    },
     "require": {
         "php": "^8.2",
         "illuminate/support": "^8.0|^9.0|^10.0"
