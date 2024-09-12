@@ -1,0 +1,21 @@
+{
+    "name": "madcobiz/madco-auth-php",
+    "description": "madco auth web3 system",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Madco\\AuthLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wersy"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    }
+}
