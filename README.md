@@ -11,5 +11,5 @@ After Install Use This:
 php artisan vendor:publish madcobiz/madco-auth-laravel
 ```
 
-# Donate Me:
+## Donate Me:
 <a href="https://daramet.com/wersy"><img src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" width="400"></a>
