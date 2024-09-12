@@ -22,13 +22,13 @@
             "email": "yousef.wersy@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "support": {
         "issues": "https://github.com/MADCOBIZ/Madco-auth-laravel/issues",
         "source": "https://github.com/MADCOBIZ/Madco-auth-laravel"
     },
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^8.0|^9.0|^10.0"
+        "illuminate/support": "^10.0"
     }
 }
